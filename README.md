@@ -9,3 +9,13 @@ This is a step by step PHP 7 & MySQL REST API tutorial, In this tutorial i am go
 * `POST - http://localhost:8080/api/create.php` Create Record
 * `POST - http://localhost:8080/api/update.php` Update Record
 * `DELETE - localhost:8080/api/delete.php` Remove Records
+
+
+#create data
+{
+	"name":"Safrizal",
+	"email":"safrizal.2020@student.uny.ac.id",
+	"age":"34",
+	"designation":"Teacher",
+	"created":"2020-10-21 10:20:30"
+}
